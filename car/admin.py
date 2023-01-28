@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Car, Resevation
+from .models import Car, Reservation
 
 admin.site.register(Car)
-admin.site.register(Resevation)
+admin.site.register(Reservation)
